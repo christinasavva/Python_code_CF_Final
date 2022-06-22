@@ -10,8 +10,6 @@ Final project within an eight-month Data Analytics course with CareerFoundry
 
 **Objective:** Analyse current listings in Washington DC, to ensure the portfolio of rentals is competitive and relevant to travellers and profitable to the company.
 
-Tableau presentation can be viewed [here]
-(https://public.tableau.com/app/profile/christina.savva/viz/HomeAwayMarketAnalysisWashingtonDC/Story1)
+Tableau presentation can be viewed [here](https://public.tableau.com/app/profile/christina.savva/viz/HomeAwayMarketAnalysisWashingtonDC/Story1).
 
-[Data source]
-https://data.world/codefordc/airbnb-washington-d-c-2015-10-03
+Data source can be viewed [here](https://data.world/codefordc/airbnb-washington-d-c-2015-10-03).
