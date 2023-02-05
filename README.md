@@ -1,4 +1,4 @@
-# Python_code_CF_Final
+# Python_script_CF_Final
 
 Final project within a 10-month Data Analytics course with CareerFoundry
 
